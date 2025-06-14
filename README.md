@@ -3,12 +3,8 @@
 
 NexGen Innovate Tech is a technology-first company focused on delivering intelligent, secure, and scalable solutions in Artificial Intelligence, IoT, Blockchain, and Cybersecurity. We drive digital transformation by combining next-gen R&D with enterprise-grade security frameworks.
 
----
-
 ## 🎯 Mission
 To advance digital ecosystems through smart innovation while safeguarding infrastructure, data, and user trust across industries and nations.
-
----
 
 ## 🧩 Core Divisions
 
