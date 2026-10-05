@@ -1,121 +1,62 @@
- # 🚀 NexGen Innovate Tech
-**Pioneering Innovation. Securing Tomorrow.**
+# Hi, I'm Yasir Ali Khan 👋
 
-NexGen Innovate Tech is a technology-first company focused on delivering intelligent, secure, and scalable solutions in Artificial Intelligence, IoT, Blockchain, and Cybersecurity. We drive digital transformation by combining next-gen R&D with enterprise-grade security frameworks.
+### Computer Science Student | AI & Software Development Enthusiast
 
-## 🎯 Mission
-To advance digital ecosystems through smart innovation while safeguarding infrastructure, data, and user trust across industries and nations.
+I'm a Computer Science and Technology undergraduate at **Beijing Institute of Technology (BIT)**, interested in building practical software and exploring **Artificial Intelligence, Machine Learning, and intelligent systems**.
 
-## 🧩 Core Divisions
+I enjoy turning ideas into working projects — from real-time applications and web systems to AI/ML experiments.
 
-### 🔬 Innovation & R&D
-- **Artificial Intelligence & Machine Learning**
-  - Predictive analytics, autonomous decision-making
-  - NLP, computer vision, recommendation engines
-  - LLM fine-tuning for secure enterprise workflows
+### 🚀 What I'm Interested In
 
-- **Internet of Things (IoT) & Smart Infrastructure**
-  - Secure IoT architecture design for smart cities, logistics, energy, and healthcare
-  - Edge computing and real-time data streaming with minimal latency
-  - Integration with AI models for autonomous operations
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models & RAG
+- 💻 Software Development
+- 👁️ Computer Vision & OpenCV
+- 🧩 Deep Reinforcement Learning
+- 🌐 Full-Stack & Real-Time Applications
+- 🤖 Robotics
 
-- **Blockchain & Decentralized Technologies**
-  - Smart contract development (Solidity, Rust)
-  - Enterprise blockchain networks (Hyperledger, Ethereum)
-  - Cross-chain interoperability and decentralized identity (DID)
+### 🛠️ Technologies & Skills
 
-- **Cloud-Native Platforms**
-  - Kubernetes-based microservices architecture
-  - Scalable backend infrastructure with AWS/GCP/Azure
-  - CI/CD pipelines, IaC (Terraform, Ansible)
+**Languages**
 
----
+- Python
+- C
+- HTML / CSS
+- TypeScript / JavaScript
 
-### 🛡 Cybersecurity Division
+**Technologies**
 
-- **Offensive Security**
-  - Red teaming, advanced penetration testing (web, cloud, IoT, SCADA)
-  - Zero-day discovery and responsible disclosure programs
+- React
+- Node.js / NestJS
+- PostgreSQL
+- Socket.IO
+- PyTorch
+- OpenCV
+- Git & GitHub
 
-- **Threat Intelligence & Monitoring**
-  - SOC-as-a-Service, SIEM integration (Splunk, ELK, Sentinel)
-  - AI-driven anomaly detection, threat hunting
+### 📌 Featured Projects
 
-- **Secure Software Development Lifecycle (SSDLC)**
-  - Shift-left security strategies
-  - Static & dynamic analysis tools (SAST/DAST)
-  - Secure coding practices and developer enablement
+🔹 **Syn Chat** — A real-time messaging platform built with React, NestJS, Socket.IO and PostgreSQL.
 
-- **Incident Response & Forensics**
-  - 24/7 IR operations for breach containment
-  - Digital forensics, reverse engineering, and legal reporting
+🔹 **Zaobao News Intelligence** — A big-data web crawler and news processing project.
 
----
+🔹 **AI / ML Projects** — Experiments and projects exploring machine learning, computer vision and intelligent systems.
 
-## 📦 Extended Core Development Areas
+### 🏆 Beyond Coding
 
-### 🧠 Applied AI Innovations
-- Federated learning for privacy-preserving ML
-- AI governance and ethical compliance frameworks
-- AI Ops for infrastructure optimization
+I also enjoy **robotics, running, badminton, history, and learning new technologies**.
 
-### 🔗 Web3 & Digital Trust
-- Tokenomics modeling and DeFi security audits
-- NFT-based supply chain authentication
-- DAO infrastructure for transparent governance
-
-### ⚙️ Advanced DevSecOps
-- Real-time policy enforcement with OPA/Gatekeeper
-- Secure CI/CD pipelines with automated compliance checks
-- SBOM management and vulnerability prioritization
-
-### 🔌 Integration & APIs
-- REST, GraphQL, WebSocket, and secure gRPC APIs
-- API gateways and rate-limiting strategies
-- OAuth2, SSO, and identity federation (OpenID, SAML)
+I'm always interested in collaborating on interesting projects, learning from others, and building things that are actually useful.
 
 ---
 
-## 🛠 Development Roadmap
+### 📫 Connect With Me
 
-| Phase       | Timeline     | Key Focus Areas                                             |
-|-------------|--------------|-------------------------------------------------------------|
-| Phase 1     | Q1–Q2 2025   | MVP development, R&D validation, security architecture      |
-| Phase 2     | Q3–Q4 2025   | Beta launch, cloud infra buildout, compliance audits        |
-| Phase 3     | 2026         | Global rollout, SaaS onboarding, partnership expansion      |
-| Phase 4     | 2027+        | AI-driven automation, regional data centers, policy R&D     |
+- 🌐 Portfolio: [Your Portfolio]
+- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [Your Email]
 
 ---
 
-## 🌍 Target Markets
-
-**Industries Served:**  
-- Finance & FinTech  
-- Smart Cities & Urban Tech  
-- Healthcare & MedTech  
-- Energy & Utilities  
----
-
-## 👥 Executive & Technical Leadership
-
-- **CEO & CTO:** Strategic leadership & architecture  
-- **Principal Engineers:** AI/ML, IoT, Blockchain, Cloud, Cybersecurity  
-- **Security Analysts & Ethical Hackers:** Certified OSCP, CEH, CISSP  
-- **Growth & Strategy Team:** Sales, partnerships, policy advisors  
----
-
-## 🤝 Contributing
-
-We welcome developers, researchers, and cybersecurity professionals to contribute.
-
-### Get Started
-```bash
-# Clone the repository
-git clone https://github.com/nexgeninnovate/nexgen-core.git
-cd nexgen-core
-
-# Install dependencies
-npm install
-
-# Run the project
-npm start
+> **Learning, building, and improving — one project at a time.**
