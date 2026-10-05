@@ -1,6 +1,38 @@
  # 🚀 NexGen Innovate Tech
 **Pioneering Innovation. Securing Tomorrow.**
 
+## 👤 Featured Profile — Yasir Ali Khan
+
+Yasir Ali Khan is a Computer Science and Technology undergraduate at the **Beijing Institute of Technology (BIT)** with strong interests in practical software engineering and intelligent systems. His work spans AI/ML experimentation, full-stack development, and real-time application design.
+
+### 🚀 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)
+- Software Development
+- Computer Vision & OpenCV
+- Deep Reinforcement Learning
+- Full-Stack & Real-Time Applications
+- Robotics
+
+### 🛠 Technologies & Skills
+**Languages:** Python, C, HTML/CSS, TypeScript/JavaScript  
+**Frameworks & Tools:** React, Node.js, NestJS, PostgreSQL, Socket.IO, PyTorch, OpenCV, Git, GitHub
+
+### 📌 Selected Projects
+- **Syn Chat** — Real-time messaging platform built with React, NestJS, Socket.IO, and PostgreSQL.
+- **Zaobao News Intelligence** — Big-data web crawling and news processing project.
+- **AI/ML Projects** — Practical experiments in machine learning, computer vision, and intelligent systems.
+
+### 🏆 Beyond Coding
+Yasir is also interested in robotics, running, badminton, history, and continuous learning.
+
+### 📫 Connect
+- Portfolio: [Your Portfolio]
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
+
+> *Learning, building, and improving — one project at a time.*
+
 NexGen Innovate Tech is a technology-first company focused on delivering intelligent, secure, and scalable solutions in Artificial Intelligence, IoT, Blockchain, and Cybersecurity. We drive digital transformation by combining next-gen R&D with enterprise-grade security frameworks.
 
 ## 🎯 Mission
